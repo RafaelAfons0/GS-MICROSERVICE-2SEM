@@ -55,6 +55,7 @@ Dependencias*
 -------------------------------------------------------------------------------------------
 
 Frontend:
+
 Telas*
 -
 ![image](https://github.com/RafaelAfons0/GS-MICROSERVICE-2SEM/assets/99260758/4700e082-2e64-48e5-80c3-5e7667dcc186)
@@ -65,11 +66,14 @@ Telas*
 
 -------------------------------------------------------------------------------------------
 
-Testes:
+Testes: Os testes tinham sido criados utilizando o K6
 
 -------------------------------------------------------------------------------------------
 
 Considerações Finais:
 
-
+Olá professor, tudo bem?
+Sofremos algumas questões conflitantes em relação à essa prova, tendo dois fatores críticos: a saída de um integrante do grupo(que seria o responsável por executar a maior parte da GS de microservice); e outro membro do grupo teve componentes do PC queimados, acarretando numa perda brusca de tempo, tendo que refazer algumas provas e perdendo partes antes feitas desse e de outros projetos.
+O que trouxemos aqui foi uma parte do que haviamos esboçado criar e o que deu tempo de desenvolver em partes. 
+Sei que não é muito, peço desculpas em nome da equipe!
 
